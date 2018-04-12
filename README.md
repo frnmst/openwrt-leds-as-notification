@@ -17,7 +17,7 @@ new file based on `./profiles/dg834gv4.profile`.
 
 ## Synopsis
 
-led_action $led_name $action $key0:$value0 $key1:$value1 $keyn-1:$valuen-1
+    led_action $led_name $action $key0:$value0 $key1:$value1 $keyn-1:$valuen-1
 
 ## Examples
 
@@ -124,12 +124,12 @@ Then:
 
 ### Leds
 
-https://openwrt.org/docs/guide-user/base-system/led_configuration
-https://www.kernel.org/doc/Documentation/leds/leds-class.txt
+- https://openwrt.org/docs/guide-user/base-system/led_configuration
+- https://www.kernel.org/doc/Documentation/leds/leds-class.txt
 
 ### Other
 
-https://wiki.openwrt.org/doc/techref/initscripts
+- https://wiki.openwrt.org/doc/techref/initscripts
 
 ## License
 
